@@ -2,7 +2,7 @@
 	<body>        		
 		
  <h1>30 Random Developing Countries</h1>
-		<p id="demo"><strong>Generate</strong></p>
+	<p id="demo"><strong>Generate</strong></p>
     <script>
 document.getElementById("demo").onclick = function() {myFunction()};
 function myFunction() {
